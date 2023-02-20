@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 This is the secon file
 
 Now this is the updated file
 
+=======
+This is the secon file
+
+Now this is the updated file
+
+>>>>>>> b6a5f2ad61d18f31c4d8ba09fd0a4d409e310fe2
 This is to test by uploading manually
